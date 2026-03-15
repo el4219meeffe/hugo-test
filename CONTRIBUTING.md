@@ -1,7 +1,3 @@
-# Documentation
+# Contributing to llm performance benchmarker
 
-Generated documentation for hugo-test.
-
-# Touch update: 1760919961
-
-# Touch update: 1760919961
+We welcome contributions! Please follow the standard Pull Request process. Ensure all code passes linting and unit tests.
